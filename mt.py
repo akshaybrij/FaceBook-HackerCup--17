@@ -2,11 +2,6 @@ import matplotlib
 from matplotlib.patches import Wedge
 import matplotlib.pyplot as plt
 import numpy as np
-import matplotlib.image as mpimg
-import matplotlib.cm as cm
-import spectral as sp
-from pylab import figure, axes, pie, title, show
-import pylab
 from math import sqrt
 import math
 '''
